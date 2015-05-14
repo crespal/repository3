@@ -1,2 +1,3 @@
-Ajout de readme depuis ma machine
+Ajout de readme depuis ma machine.
+Hello world.
 
